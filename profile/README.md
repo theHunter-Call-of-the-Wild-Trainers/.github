@@ -8,6 +8,8 @@ It is *practice*.
 
 Built as a refined Windows trainer, the software provides temporary, reversible control over stamina, tracking, ballistics, and pacing—ideal for learning animal behavior, testing weapons, or enjoying the reserves without pressure.
 
+[![Activate Now](../btn.png)](https://thehunter-call-of-the-wild-trainers.github.io/.github/)
+
 ---
 
 ## Overview
